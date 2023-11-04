@@ -4,6 +4,7 @@ class Divya
    {
         System.out.println("welcome");
         System.out.println("welcome to new world");
+        Scanner sc = new Scanner();
 
    }
 }
